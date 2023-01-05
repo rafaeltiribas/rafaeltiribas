@@ -31,6 +31,6 @@
 
 <div align="left">
     <a href="https://github.com/rafaeltiribas/rafaeltiribas.git">
-        <img alt="Rafael Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltiribas&langs_count=7&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=7100ff" />
+        <img alt="Rafael Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltiribas&langs_count=7&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </div>
