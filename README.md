@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🛠 I'm currently working/learning: <strong>Python, C/C++, Go, Node.js.</strong>
+  🛠 I'm currently coding with: <strong>Python, C/C++, Go, Node.js.</strong>
 </p>
 
 <p align="left">
