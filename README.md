@@ -29,5 +29,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaeltiribas&show_icons=true)
+<div align="center">
+    <a href="https://github.com/rafaeltiribas/rafaeltiribas.git">
+        <img alt="Rafael Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltiribas&langs_count=7&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</div>
