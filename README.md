@@ -5,26 +5,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  I'm a <strong>Computer Science</strong> student🎓 from UFF🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.<br>
+  I love to explore new technologies and leverage them to solve real-life problems✨.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🛠 I'm currently working/learning: <strong>Python, C/C++, Go, Node.js.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  🏎 Passionate about motorsport and sports in general.😀
+  
+  
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 How to reach me: ⤵️
 </p>
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rafaeltiribas@id.uff.com" alt="Email" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
