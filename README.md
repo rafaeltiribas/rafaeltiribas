@@ -31,3 +31,12 @@
   
   
 </p>  
+
+#
+
+<div align="center">
+
+### “I have no idols. I admire work, dedication and competence.” – Ayrton Senna
+
+</div>
+
