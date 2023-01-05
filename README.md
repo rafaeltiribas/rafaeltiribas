@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a <strong>Computer Science</strong> student🎓 from UFF🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.<br>
+  I'm a <strong>Computer Science</strong>🎓 student from UFF🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.<br>
   I love to explore new technologies and leverage them to solve real-life problems✨.
 </p>
 
@@ -14,9 +14,7 @@
 </p>
 
 <p align="left">
-  🏎 Passionate about motorsport and sports in general.😀
-  
-  
+  🏁 Passionate about motorsport and sports in general.😀
 </p>
 
 <p align="left">
