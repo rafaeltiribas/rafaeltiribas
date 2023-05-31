@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rafaeltiribas@id.uff.com" alt="Email" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/rafael-tiribás-rabiega-99701a218/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
 
