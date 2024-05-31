@@ -7,7 +7,6 @@
 
 **Me chamo Rafael Tiribás**  
 22 anos & estudante de Ciência da Computação
-Programo coisas
 
 Meu [Linkedin](https://www.linkedin.com/in/rafaeltiribas/) 💼
 
