@@ -1,6 +1,6 @@
 
 <p>
-   <img src="/docs/banner1.png" alt="CL Thumb" border="0" width="100%">
+   <img src="/docs/TECHTIRIBAS.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
 # Hey, Tech! 🧑‍💻
